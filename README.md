@@ -1,25 +1,39 @@
-# Number Guessing Game - Python
+# 🎯🔢 **Number Guessing Game – Python**
 
-A simple **command-line number guessing game** built with Python. The program generates a random number within a user-defined range, and the player keeps guessing until they get it right. The total number of attempts is displayed at the end.
+A simple **command-line number guessing game** built in **Python**.  
+The program generates a **random number within a user-defined range**, and the player keeps guessing until they get it right.  
+It also tracks and displays the **total number of attempts** at the end.
 
-## 🎯 Features
+---
 
-- User sets the upper range
-- Random number generated within the range
-- Interactive guessing with feedback
-- Total attempts counter
-- Beginner-friendly logic
+## 🧩 Features
+
+- 🔢 User Sets the Upper Range  
+- 🎲 Random Number Generated Within Range  
+- 🔁 Interactive Guessing with Feedback  
+- 📈 Total Attempts Counter  
+- 🪶 Beginner-Friendly Logic and Flow
+
+---
 
 ## 🧱 Tech Stack
 
-- Language: Python
-- Modules: `random`
+- **Language:** Python  
+- **Modules Used:** `random` (built-in)
 
-## 🚀 How to Run
+---
 
-1. Ensure Python is installed.
-2. Clone the repo or copy the script.
-3. Run the file using:
+## ▶️ How to Run
 
+### 💻 Using Terminal / CMD:
 ```bash
 python NumberGuessProject.py
+✅ Make sure Python is installed and added to your system PATH.
+
+👨‍💻 Author
+Muhammad Umair Bashir
+📧 umairbashir0319@gmail.com
+
+🪪 License
+This project is free and open-source for learning, practice, and personal projects.
+You’re welcome to modify or share it with proper credit.
